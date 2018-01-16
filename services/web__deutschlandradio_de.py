@@ -6,5 +6,4 @@ urls = ['http://www.deutschlandradio.de/',
 regex = [r'https?:\/\/[^\/]*deutschland', r'https?:\/\/[^\/]*dradio\.de']
 videoregex = [r'audio', r'video']
 liveregex = []
-
-
+wikidata = 'Q702314'

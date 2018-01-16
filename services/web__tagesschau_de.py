@@ -7,5 +7,5 @@ urls = ['http://www.tagesschau.de/',
 regex = [r'https?:\/\/[^\/]*tagesschau\.de']
 videoregex = [r'video', r'\/multimedia\/', r'audio']
 liveregex = []
-
+wikidata = 'Q1409067'
 

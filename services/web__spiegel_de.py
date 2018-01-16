@@ -28,3 +28,4 @@ urls = ['http://www.spiegel.de',
 regex = [r'^http?:\/\/[^\/]*spiegel\.de\/']
 videoregex = [r'/video/']
 liveregex = []
+wikidata = 'Q278151'
